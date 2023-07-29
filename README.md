@@ -10,4 +10,4 @@ The actual functionality is not implemented, only the basic view
 Someday I might be able to hehehe
 
 
-![Screenshot](screenshots/home.jpeg)
+![Screenshot](screenshots/home.png)
